@@ -8,9 +8,9 @@ app = Flask(__name__)
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # Get the directory of the script
 
-MODEL_PATH = os.path.join(BASE_DIR, "gemstone_price_model.pkl")
-SCALER_PATH = os.path.join(BASE_DIR, "scaler.pkl")
-ENCODER_PATH = os.path.join(BASE_DIR, "encoder.pkl")
+MODEL_PATH = "gemstone_price_model.pkl"
+SCALER_PATH = "scaler.pkl"
+ENCODER_PATH = "encoder.pkl"
 
 model = joblib.load(MODEL_PATH)
 scaler = joblib.load(SCALER_PATH)
