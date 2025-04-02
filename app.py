@@ -37,20 +37,11 @@ def predict():
     try:
         data = request.get_json()
         df = pd.DataFrame([data])  # Convert JSON to DataFrame
-
-        print("Original Input Data:\n", df)
-        missing_cols = [col for col in categorical_features if col not in df.columns]
-        print("Missing Categorical Columns:", missing_cols)
-       
        
         # Apply One-Hot Encoding to categorical features
         df = pd.get_dummies(df, columns=categorical_features, drop_first=False)
         print(df)
         df = df.astype(int)
-
-        df = df.reindex(columns=expected_features, fill_value=0)
-        print("Not heated value of", df["Treatment_Not Heated"])
-        # print("heated value", df["Treatment_Heated"])
 
         # Scaling the data
         numerical_features = ["Hardness", "Carat"]

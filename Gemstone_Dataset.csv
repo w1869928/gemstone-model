@@ -1,0 +1,601 @@
+Type,Cut,Clarity,Treatment,Hardness,Carat,Color,Price
+Spinel,Octagon,VS1,Not Heated,8,2.58,Green,"75,000"
+Spinel,Round,VVS2,Heated,8,3.45,Purple,"55,500"
+Spinel,Cushion,SI,Not Heated,8,1.75,Blue,"25,000"
+Spinel,Square,VS2,Not Heated,7,2.9,Yellow,"33,000"
+Spinel,Oval,VVS1,Heated,7,4.12,Green,"122,000"
+Spinel,Cushion,VVS2,Not Heated,8,3.05,Purple,"50,000"
+Spinel,Round,VS1,Not Heated,8,1.95,Orange,"35,000"
+Spinel,Square,VVS1,Not Heated,8,4.8,Orange,"240,000"
+Spinel,Octagon,VS2,Not Heated,9,2.23,Red,"25,000"
+Spinel,Round,SI,Not Heated,8,2.09,Red,"15,000"
+Spinel,Oval,VS1,Not Heated,8,3.75,Green,"60,500"
+Spinel,Square,VVS1,Not Heated,8,2.48,Pink,"80,500"
+Spinel,Cushion,VVS2,Not Heated,8,1.64,Blue,55000
+Spinel,Octagon,VS2,Not Heated,7,4.1,Orange,69000
+Spinel,Round,SI,Heated,8,1.78,Red,10000
+Spinel,Oval,VVS2,Not Heated,8,3.36,Green,34600
+Spinel,Cushion,VS1,Heated,8,2.57,Blue,60500
+Spinel,Square,VS2,Not Heated,8,3.05,Pink,82000
+Spinel,Octagon,VS1,Not Heated,8,4.56,Red,68500
+Spinel,Round,VVS1,Not Heated,8,3.1,Blue,180000
+Spinel,Square,VS2,Not Heated,7,1.88,Orange,18000
+Spinel,Cushion,SI,Not Heated,8,4.03,Red,20000
+Spinel,Oval,VS1,Not Heated,8,1.56,Purple,22000
+Spinel,Round,VS2,Heated,8,2.89,Yellow,25000
+Spinel,Square,VVS1,Not Heated,8,1.94,Blue,38000
+Spinel,Octagon,VVS2,Not Heated,8,4.21,Green,"220,000"
+Spinel,Cushion,VS1,Not Heated,8,2.11,Red,18000
+Spinel,Round,SI,Not Heated,8,3.67,Blue,20000
+Spinel,Square,VVS2,Not Heated,7,4.15,Green,"200,500"
+Spinel,Oval,VS2,Heated,8,3,Pink,80000
+Spinel,Octagon,VS1,Not Heated,8,4.39,Yellow,122000
+Spinel,Cushion,VVS1,Heated,8,2.93,Red,60000
+Spinel,Square,VVS2,Not Heated,8,1.72,Green,17000
+Spinel,Round,VS1,Heated,8,3.99,Blue,40000
+Spinel,Oval,SI,Not Heated,8,1.84,Red,18500
+Spinel,Cushion,VVS2,Not Heated,8,4.05,Green,32000
+Spinel,Square,VS1,Heated,9,1.96,Pink,18000
+Spinel,Round,VS2,Not Heated,8,3.47,Purple,80000
+Spinel,Octagon,VVS1,Not Heated,8,1.65,Green,25000
+Spinel,Cushion,VS2,Heated,8,4.77,Red,32000
+Spinel,Square,VS1,Not Heated,8,3.32,Pink,25000
+Spinel,Round,SI,Heated,8,2.16,Blue,8000
+Spinel,Oval,VS1,Not Heated,8,4.51,Red,85000
+Spinel,Cushion,VVS2,Heated,8,2.31,Green,22000
+Spinel,Square,VS1,Not Heated,8,2.97,Blue,22000
+Spinel,Octagon,VVS2,Not Heated,8,1.76,Red,23000
+Spinel,Round,VS1,Not Heated,8,2.69,Brown,25000
+Spinel,Cushion,VS2,Not Heated,8,3.58,Blue,26000
+Spinel,Oval,VVS1,Heated,8,4.66,Red,340000
+Spinel,Square,SI,Not Heated,8,2.42,Green,12000
+Spinel,Round,VS2,Heated,8,1.88,Pink,17000
+Spinel,Cushion,VVS1,Not Heated,8,3.82,Blue,"280,000"
+Spinel,Oval,VVS2,Not Heated,8,4.92,Brown,400500
+Spinel,Octagon,VS1,Heated,8,2.33,Red,27000
+Spinel,Square,VS2,Not Heated,8,3.11,Pink,28000
+Spinel,Round,VVS1,Heated,8,2.75,Blue,170000
+Spinel,Oval,SI,Not Heated,8,1.49,Yellow,10000
+Spinel,Cushion,VVS2,Heated,8,2.87,Green,22000
+Spinel,Square,VS1,Not Heated,7,3.64,Blue,120500
+Spinel,Octagon,VVS2,Not Heated,8,4.3,Red,38000
+Spinel,Round,VS2,Heated,8,2.04,Green,20000
+Spinel,Cushion,VS1,Not Heated,8,3.45,Pink,40000
+Spinel,Oval,SI,Heated,8,4.29,Blue,22000
+Spinel,Square,VVS2,Not Heated,8,1.99,Yellow,19000
+Spinel,Round,VS1,Heated,7,2.66,Green,26500
+Spinel,Octagon,VVS1,Not Heated,8,3.89,Blue,"320,000"
+Spinel,Cushion,VS2,Heated,8,4.54,Red,82000
+Spinel,Square,SI,Not Heated,8,1.73,Green,10000
+Spinel,Round,VS1,Heated,7,2.99,Yellow,29000
+Spinel,Oval,VVS2,Not Heated,8,1.81,Blue,40000
+Spinel,Cushion,VS1,Not Heated,8,3.77,Green,27000
+Spinel,Square,VVS2,Not Heated,8,4,Red,"140,000"
+Spinel,Round,VVS1,Heated,9,2.13,Green,23000
+Spinel,Octagon,VS2,Not Heated,8,1.91,Blue,16000
+Spinel,Cushion,VVS1,Heated,7,3.14,Purple,125000
+Spinel,Square,SI,Not Heated,8,4.25,Green,13500
+Spinel,Round,VVS2,Heated,8,1.86,Blue,18000
+Spinel,Oval,VS1,Not Heated,8,2.98,Red,73000
+Spinel,Cushion,VS2,Not Heated,8,3.2,Brown,20000
+Spinel,Square,VVS1,Not Heated,7,2.54,Blue,47500
+Spinel,Round,VVS2,Heated,8,4.43,Green,40000
+Spinel,Octagon,SI,Not Heated,8,3.16,Red,12000
+Spinel,Cushion,VS1,Not Heated,8,2.25,Blue,40000
+Spinel,Oval,VVS1,Not Heated,8,1.99,Brown,35000
+Alexandrite,Cushion,VVS1,Heated,9,0.42,Green,40000
+Alexandrite,Round,VS1,Heated,9,0.87,Purple,20000
+Alexandrite,Oval,VVS2,Heated,9,0.4,Orange,16500
+Alexandrite,Round,VVS2,Not Heated,9,0.61,Orange,24000
+Alexandrite,Round,VS1,Not Heated,9,0.7,Blue,27700
+Alexandrite,Round,SI,Not Heated,8,0.83,Yellow,6500
+Alexandrite,Square,VS2,Heated,9,0.3,Orange,12000
+Alexandrite,Square,VS1,Heated,9,0.78,Pink,21000
+Alexandrite,Round,VS1,Heated,9,0.47,Brown,23200
+Alexandrite,Cushion,VS2,Not Heated,9,0.19,Green,8000
+Alexandrite,Oval,VS1,Heated,9,1.9,Green,87300
+Alexandrite,Octagon,VS1,Not Heated,9,1.54,Blue,120000
+Alexandrite,Oval,VS2,Not Heated,9,1.58,Red,82000
+Alexandrite,Oval,VVS2,Not Heated,9,1.45,Brown,85000
+Alexandrite,Cushion,VS1,Not Heated,9,0.34,Yellow,15700
+Alexandrite,Cushion,VS2,Not Heated,9,1.91,Yellow,42000
+Alexandrite,Cushion,VVS1,Not Heated,9,1.31,Yellow,31000
+Alexandrite,Round,SI,Heated,8,1.4,Orange,27000
+Alexandrite,Square,VS2,Heated,9,0.87,Red,11300
+Alexandrite,Octagon,VVS2,Heated,9,1.75,Brown,37000
+Alexandrite,Octagon,VVS2,Not Heated,9,0.72,Green,26200
+Alexandrite,Oval,VS1,Not Heated,9,0.86,Yellow,9700
+Alexandrite,Cushion,VS2,Heated,9,1.65,Blue,39000
+Alexandrite,Square,VS2,Heated,9,1.52,Orange,41000
+Alexandrite,Square,VS2,Not Heated,9,0.29,Blue,4800
+Alexandrite,Square,VS2,Not Heated,9,1.63,Brown,33400
+Alexandrite,Oval,SI,Heated,9,1.24,Green,30000
+Alexandrite,Cushion,VS2,Heated,8,1.78,Blue,75000
+Alexandrite,Octagon,VVS1,Not Heated,9,1.81,Orange,200500
+Alexandrite,Cushion,VS2,Heated,9,1.55,Purple,52000
+Alexandrite,Oval,VS2,Heated,9,1.63,Blue,131000
+Alexandrite,Cushion,VS1,Not Heated,9,1.44,Red,51000
+Alexandrite,Round,VS2,Heated,9,0.92,Yellow,22200
+Alexandrite,Octagon,SI,Not Heated,9,0.24,Pink,3500
+Alexandrite,Square,VS2,Heated,9,0.29,Red,3900
+Alexandrite,Round,VVS2,Heated,9,0.22,Red,2800
+Alexandrite,Round,VS2,Heated,9,1.44,Pink,25200
+Alexandrite,Square,VVS1,Not Heated,9,1.62,Yellow,34200
+Alexandrite,Round,VS1,Heated,8,0.63,Yellow,9500
+Alexandrite,Round,VS2,Not Heated,9,1.57,Orange,32200
+Alexandrite,Octagon,VVS1,Heated,9,1.26,Blue,110000
+Alexandrite,Octagon,VVS2,Heated,9,0.66,Yellow,19700
+Alexandrite,Oval,VS1,Not Heated,8,1.6,Green,72000
+Alexandrite,Round,VS2,Not Heated,9,1.72,Pink,30000
+Alexandrite,Oval,VVS2,Not Heated,9,0.27,Orange,3500
+Alexandrite,Cushion,VVS1,Not Heated,9,1.59,Red,140000
+Alexandrite,Square,VS2,Heated,9,0.64,Blue,45000
+Alexandrite,Square,SI,Not Heated,9,1.55,Green,29000
+Alexandrite,Cushion,VS2,Not Heated,9,0.42,Purple,15200
+Alexandrite,Round,SI,Heated,9,1.42,Green,12200
+Alexandrite,Square,VVS2,Not Heated,9,0.33,Red,8500
+Alexandrite,Cushion,VS1,Heated,9,0.55,Brown,7800
+Alexandrite,Round,VVS2,Not Heated,9,0.68,Purple,8500
+Alexandrite,Cushion,VS2,Heated,8,0.82,Orange,11000
+Alexandrite,Square,VS2,Heated,8,0.3,Orange,9500
+Alexandrite,Octagon,VS1,Not Heated,9,0.41,Brown,5200
+Alexandrite,Round,VVS2,Not Heated,9,1.6,Green,21700
+Alexandrite,Round,SI,Not Heated,9,0.83,Yellow,8500
+Alexandrite,Cushion,VVS2,Not Heated,9,1.71,Brown,42000
+Alexandrite,Cushion,VS2,Heated,9,0.8,Brown,12700
+Alexandrite,Round,VVS1,Heated,9,1,Red,98000
+Alexandrite,Cushion,VS2,Heated,9,0.82,Orange,13000
+Alexandrite,Octagon,VS2,Heated,9,1.79,Blue,47000
+Alexandrite,Round,VVS1,Heated,9,0.43,Green,14700
+Alexandrite,Square,VS1,Not Heated,9,1,Orange,67000
+Alexandrite,Octagon,VS2,Heated,9,1.19,Purple,45000
+Alexandrite,Square,VS1,Heated,9,0.2,Purple,6700
+Alexandrite,Octagon,VS1,Heated,9,1.12,Red,57000
+Alexandrite,Round,VS1,Not Heated,9,1.22,Green,84000
+Alexandrite,Octagon,VVS1,Heated,9,1.16,Green,100000
+Alexandrite,Octagon,VVS2,Heated,9,0.72,Pink,19000
+Alexandrite,Square,VVS1,Not Heated,9,1.86,Green,240000
+Alexandrite,Octagon,VS2,Heated,9,1.04,Green,20000
+Alexandrite,Cushion,VS2,Heated,9,1.97,Orange,27000
+Alexandrite,Square,VS2,Not Heated,9,1.37,Green,21800
+Alexandrite,Oval,VVS2,Not Heated,9,1.25,Brown,17000
+Alexandrite,Cushion,SI,Heated,8,0.81,Orange,3000
+Alexandrite,Octagon,VVS1,Heated,9,1.27,Pink,92000
+Alexandrite,Round,SI,Heated,9,0.67,Red,14200
+Alexandrite,Oval,VS2,Heated,9,1.93,Orange,33115
+Alexandrite,Square,VS2,Heated,9,0.23,Purple,4100
+Alexandrite,Oval,SI,Heated,8,1.41,Red,15000
+Alexandrite,Oval,VS1,Not Heated,9,0.98,Orange,18200
+Alexandrite,Oval,VS2,Not Heated,8,1.28,Yellow,25700
+Alexandrite,Oval,VS2,Not Heated,9,0.55,Pink,10700
+Alexandrite,Square,VS1,Not Heated,9,1.75,Blue,77000
+Alexandrite,Oval,SI,Heated,9,1.41,Red,19000
+Alexandrite,Oval,VVS2,Heated,9,0.51,Red,9700
+Alexandrite,Square,VS2,Not Heated,9,0.42,Yellow,2700
+Alexandrite,Cushion,SI,Heated,9,0.81,Orange,4000
+Alexandrite,Oval,VVS1,Heated,9,1.57,Green,180000
+Alexandrite,Oval,SI,Not Heated,9,1.54,Red,8000
+Alexandrite,Octagon,VVS2,Not Heated,9,0.33,Blue,5000
+Alexandrite,Octagon,VS2,Not Heated,9,1.32,Pink,7500
+Alexandrite,Oval,VS2,Not Heated,8,0.55,Pink,8700
+Alexandrite,Round,VVS2,Not Heated,9,0.53,Pink,8700
+Alexandrite,Square,SI,Not Heated,9,0.4,Blue,4000
+Alexandrite,Oval,VS2,Not Heated,9,1.28,Yellow,28700
+Alexandrite,Oval,VVS2,Heated,9,1.65,Blue,57700
+Alexandrite,Oval,VVS1,Heated,9,0.88,Orange,13000
+Alexandrite,Square,VVS1,Heated,9,1.11,Yellow,31000
+Alexandrite,Square,VVS2,Not Heated,9,1.83,Yellow,20900
+Alexandrite,Octagon,VS2,Heated,9,0.27,Red,4100
+Alexandrite,Oval,VS2,Heated,9,1.18,Pink,21000
+Alexandrite,Round,SI,Heated,9,1.89,Purple,9000
+Alexandrite,Square,VVS1,Heated,9,1.63,Orange,170000
+Alexandrite,Oval,SI,Not Heated,9,1.22,Blue,17000
+Chrysoberyl,Octagon,VS2,Not Heated,8,2.3,Green,70000
+Chrysoberyl,Round,VVS1,Not Heated,8,3.02,Green,170000
+Chrysoberyl,Oval,VS1,Heated,8,4.91,Orange,220000
+Chrysoberyl,Cushion,VS2,Heated,8,1.26,Yellow,15000
+Chrysoberyl,Square,VVS2,Not Heated,8,4.93,Brown,67000
+Chrysoberyl,Oval,SI,Not Heated,7,4.03,Yellow,18000
+Chrysoberyl,Cushion,SI,Not Heated,7,5.34,Yellow,11500
+Chrysoberyl,Octagon,VVS1,Heated,9,5.89,Orange,330000
+Chrysoberyl,Octagon,SI,Not Heated,8,5.73,Yellow,81500
+Chrysoberyl,Cushion,SI,Heated,8,2.38,Brown,25000
+Chrysoberyl,Octagon,VVS2,Heated,8,2.46,Green,31700
+Chrysoberyl,Oval,VVS2,Not Heated,8,3.38,Orange,40000
+Chrysoberyl,Octagon,SI,Not Heated,8,5.23,Brown,34700
+Chrysoberyl,Round,VVS1,Heated,8,5.05,Brown,280000
+Chrysoberyl,Cushion,VS2,Heated,7,1.26,Yellow,13000
+Chrysoberyl,Square,SI,Not Heated,7,2.02,Brown,14500
+Chrysoberyl,Octagon,VVS2,Not Heated,8,6.2,Orange,100500
+Chrysoberyl,Cushion,VS1,Heated,8,4.41,Green,300000
+Chrysoberyl,Oval,VS2,Heated,8,4.91,Brown,170000
+Chrysoberyl,Square,VS1,Not Heated,8,6.28,Yellow,190000
+Chrysoberyl,Cushion,SI,Not Heated,8,1.29,Orange,8000
+Chrysoberyl,Oval,VVS2,Heated,8,4.85,Orange,45000
+Chrysoberyl,Octagon,SI,Heated,7,6.71,Yellow,10300
+Chrysoberyl,Cushion,SI,Heated,7,5.66,Orange,8700
+Chrysoberyl,Oval,VS1,Heated,8,4.71,Orange,70500
+Chrysoberyl,Octagon,VVS1,Not Heated,8,4.7,Orange,112000
+Chrysoberyl,Cushion,SI,Heated,8,1.2,Brown,5700
+Chrysoberyl,Oval,VS2,Not Heated,8,6.12,Brown,51000
+Chrysoberyl,Oval,VVS2,Heated,8,1.22,Brown,6200
+Chrysoberyl,Cushion,SI,Heated,8,1.99,Green,12000
+Chrysoberyl,Square,VVS1,Heated,8,2.33,Brown,35000
+Chrysoberyl,Cushion,VVS2,Heated,8,2.23,Orange,17000
+Chrysoberyl,Octagon,VS1,Heated,8,3.39,Green,37000
+Chrysoberyl,Round,VS2,Not Heated,8,5.56,Green,68000
+Chrysoberyl,Square,SI,Heated,8,6.15,Yellow,21500
+Chrysoberyl,Oval,VVS2,Not Heated,8,4.69,Yellow,30700
+Chrysoberyl,Square,VVS1,Heated,8,1.97,Orange,30000
+Chrysoberyl,Octagon,SI,Heated,8,3.32,Orange,11700
+Chrysoberyl,Cushion,VS2,Not Heated,8,3.2,Orange,30700
+Chrysoberyl,Cushion,VS1,Heated,8,2.42,Orange,27000
+Chrysoberyl,Cushion,VVS1,Not Heated,8,6.01,Yellow,315000
+Chrysoberyl,Octagon,VVS1,Heated,8,3.29,Yellow,68000
+Chrysoberyl,Square,VS2,Heated,8,6.32,Brown,42000
+Chrysoberyl,Square,SI,Not Heated,7,6.64,Orange,31500
+Chrysoberyl,Round,VVS2,Heated,8,2.69,Yellow,40000
+Chrysoberyl,Oval,VS2,Heated,8,1.93,Yellow,18200
+Chrysoberyl,Round,VS1,Not Heated,8,1.55,Brown,32000
+Chrysoberyl,Square,VS2,Not Heated,8,4.69,Green,60000
+Chrysoberyl,Oval,VS2,Heated,8,4.64,Green,58000
+Chrysoberyl,Round,VS2,Heated,8,4.41,Green,55000
+Chrysoberyl,Oval,VS1,Heated,8,2.74,Brown,34000
+Chrysoberyl,Round,VVS1,Not Heated,8,3.25,Brown,54000
+Chrysoberyl,Oval,VS2,Heated,8,5.95,Brown,64500
+Chrysoberyl,Octagon,VVS1,Heated,8,4.7,Green,280000
+Chrysoberyl,Cushion,VS1,Heated,8,5.4,Yellow,77000
+Chrysoberyl,Square,VS1,Not Heated,8,3.66,Yellow,34000
+Chrysoberyl,Cushion,VS1,Not Heated,8,1.33,Orange,41000
+Chrysoberyl,Round,VS1,Not Heated,8,4.43,Orange,87000
+Chrysoberyl,Cushion,VVS1,Heated,8,5.17,Orange,140000
+Chrysoberyl,Oval,VS2,Not Heated,8,5.23,Orange,44000
+Chrysoberyl,Oval,VVS2,Not Heated,9,4.69,Yellow,33700
+Chrysoberyl,Square,VVS1,Heated,9,1.97,Orange,35000
+Chrysoberyl,Square,SI,Not Heated,8,6.64,Orange,34000
+Chrysoberyl,Round,VS2,Not Heated,8,5,Orange,40000
+Chrysoberyl,Octagon,SI,Not Heated,8,3.94,Green,21000
+Chrysoberyl,Cushion,VS1,Heated,8,3.98,Yellow,70000
+Chrysoberyl,Round,VS2,Not Heated,7,5,Orange,38500
+Chrysoberyl,Oval,VVS1,Not Heated,8,5.73,Yellow,270000
+Chrysoberyl,Round,VVS2,Not Heated,8,2.14,Yellow,22700
+Chrysoberyl,Octagon,SI,Heated,8,6.71,Yellow,11800
+Chrysoberyl,Cushion,SI,Heated,8,5.66,Orange,9700
+Chrysoberyl,Oval,SI,Not Heated,8,4.03,Yellow,20000
+Chrysoberyl,Cushion,VVS1,Not Heated,9,6.01,Yellow,325000
+Chrysoberyl,Octagon,VVS1,Heated,9,3.29,Yellow,72000
+Chrysoberyl,Cushion,SI,Not Heated,8,5.34,Yellow,12800
+Chrysoberyl,Round,VVS2,Not Heated,8,6.5,Yellow,37700
+Chrysoberyl,Cushion,VS2,Heated,8,1.26,Yellow,1400
+Chrysoberyl,Round,SI,Not Heated,8,4.48,Green,27000
+Chrysoberyl,Cushion,VS2,Heated,8,3.21,Green,41000
+Chrysoberyl,Square,SI,Not Heated,8,3.58,Green,22000
+Chrysoberyl,Round,VVS1,Heated,8,5.83,Green,380000
+Chrysoberyl,Oval,VS1,Heated,8,5.07,Green,270000
+Chrysoberyl,Octagon,VVS2,Heated,8,6.04,Green,134000
+Chrysoberyl,Octagon,SI,Heated,8,3.83,Brown,22000
+Chrysoberyl,Oval,VS2,Not Heated,8,5.23,Orange,42500
+Chrysoberyl,Oval,VVS2,Heated,8,3.22,Brown,40000
+Chrysoberyl,Round,VVS1,Not Heated,8,6.37,Brown,298500
+Chrysoberyl,Square,SI,Not Heated,8,2.02,Brown,16700
+Chrysoberyl,Oval,VVS2,Not Heated,8,5.74,Brown,78500
+Chrysoberyl,Square,VS2,Heated,8,5.84,Orange,69700
+Chrysoberyl,Square,VVS2,Heated,8,2.59,Brown,30000
+Chrysoberyl,Octagon,SI,Heated,8,4.46,Yellow,17000
+Chrysoberyl,Round,SI,Not Heated,8,4.58,Brown,70000
+Chrysoberyl,Round,VS2,Not Heated,8,2.54,Yellow,30000
+Chrysoberyl,Cushion,VVS1,Heated,8,5.48,Yellow,212000
+Chrysoberyl,Round,SI,Heated,8,2.19,Yellow,16700
+Chrysoberyl,Oval,VVS2,Heated,8,3.39,Orange,30000
+Chrysoberyl,Octagon,SI,Heated,8,2.43,Orange,13200
+Chrysoberyl,Oval,VS2,Not Heated,8,3.85,Green,33200
+Chrysoberyl,Octagon,VVS1,Not Heated,8,1.81,Green,58000
+Chrysoberyl,Square,VS2,Not Heated,8,3.71,Green,60000
+Chrysoberyl,Cushion,VS1,Not Heated,8,5.96,Yellow,112000
+Chrysoberyl,Round,VVS1,Heated,8,1.24,Green,39000
+Chrysoberyl,Octagon,VS1,Not Heated,8,2.83,Yellow,38000
+Chrysoberyl,Octagon,VVS2,Not Heated,8,5.28,Yellow,41500
+Chrysoberyl,Octagon,VVS1,Not Heated,8,6.23,Orange,230000
+Chrysoberyl,Oval,VS1,Heated,8,5.3,Orange,180000
+Chrysoberyl,Oval,VVS1,Heated,8,5.25,Orange,240000
+Chrysoberyl,Oval,VS1,Not Heated,8,5.52,Yellow,140000
+Chrysoberyl,Oval,SI,Heated,8,6.87,Orange,36000
+Chrysoberyl,Cushion,VVS1,Heated,8,2.24,Brown,42000
+Chrysoberyl,Square,VVS2,Not Heated,8,3.75,Brown,41700
+Chrysoberyl,Square,VVS1,Heated,8,6.62,Brown,290000
+Chrysoberyl,Cushion,VS1,Not Heated,8,1.46,Brown,20500
+Chrysoberyl,Square,VVS2,Not Heated,8,4.93,Brown,64500
+Chrysoberyl,Square,VVS2,Not Heated,8,4.93,Brown,72000
+Sapphire,Octagon,VVS1,Heated,9,5.55,Blue,1570000
+Sapphire,Octagon,SI,Heated,9,0.36,Blue,1800
+Sapphire,Round,VVS2,Not Heated,9,0.48,Blue,2500
+Sapphire,Square,SI,Not Heated,8,3.04,Purple,2600
+Sapphire,Octagon,VVS2,Not Heated,9,5.88,Yellow,278000
+Sapphire,Oval,VVS1,Heated,9,5.17,Purple,765000
+Sapphire,Square,VS1,Not Heated,8,3.6,Yellow,272000
+Sapphire,Cushion,VVS1,Heated,9,2.3,Teal,186000
+Sapphire,Cushion,VVS2,Heated,9,3.61,Green,28000
+Sapphire,Round,VVS1,Heated,8,5.93,Green,308000
+Sapphire,Cushion,VS2,Not Heated,9,2.53,Purple,31000
+Sapphire,Cushion,VVS2,Heated,8,3.61,Green,26000
+Sapphire,Cushion,VS2,Not Heated,8,2.53,Purple,27000
+Sapphire,Octagon,SI,Heated,9,0.21,Green,1200
+Sapphire,Square,VS2,Heated,9,4.25,Brown,47000
+Sapphire,Square,VS1,Heated,9,3.24,Blue,180000
+Sapphire,Octagon,VS2,Not Heated,9,4.13,Yellow,80000
+Sapphire,Oval,VS1,Not Heated,9,4.05,Blue,480000
+Sapphire,Cushion,VS1,Heated,9,0.55,Blue,3700
+Sapphire,Square,VS2,Heated,9,1.88,Blue,67700
+Sapphire,Octagon,VS2,Not Heated,9,0.27,Yellow,2200
+Sapphire,Square,VS1,Not Heated,9,3.6,Yellow,280000
+Sapphire,Oval,VVS2,Heated,9,4.39,Red,412000
+Sapphire,Octagon,VS1,Heated,9,5.39,Blue,500000
+Sapphire,Round,VS1,Not Heated,9,2.66,Blue,260000
+Sapphire,Round,VVS1,Heated,9,5.93,Green,312000
+Sapphire,Square,SI,Not Heated,9,3.04,Purple,3000
+Sapphire,Square,VVS2,Not Heated,9,0.61,Purple,2300
+Sapphire,Cushion,VVS2,Not Heated,9,5.55,Brown,20500
+Sapphire,Oval,VS1,Not Heated,9,1.14,Green,11000
+Sapphire,Octagon,VS1,Not Heated,9,5.37,Teal,380000
+Sapphire,Square,VS1,Not Heated,9,1.52,Teal,150000
+Sapphire,Square,SI,Heated,9,1.62,Blue,16500
+Sapphire,Octagon,VVS2,Heated,9,1.4,Brown,8000
+Sapphire,Cushion,VVS1,Heated,9,4.1,Brown,120000
+Sapphire,Square,VVS2,Not Heated,9,5.33,Blue,400000
+Sapphire,Octagon,VS2,Heated,9,4.4,Blue,240000
+Sapphire,Octagon,SI,Heated,9,3.48,Brown,3480
+Sapphire,Round,VS2,Not Heated,9,5.28,Blue,375000
+Sapphire,Octagon,VVS2,Not Heated,9,4.16,Teal,160000
+Sapphire,Oval,VVS1,Not Heated,9,1.38,Blue,138000
+Sapphire,Round,VS2,Heated,9,0.4,Teal,4000
+Sapphire,Square,VVS2,Heated,9,2.74,Blue,150000
+Sapphire,Octagon,SI,Heated,9,4.94,Purple,11000
+Sapphire,Oval,VS2,Not Heated,9,4.36,Teal,205000
+Sapphire,Cushion,SI,Heated,9,0.8,Purple,3500
+Sapphire,Octagon,SI,Not Heated,9,2.88,Orange,4000
+Sapphire,Octagon,VVS2,Heated,9,4.82,Orange,340000
+Sapphire,Oval,VVS2,Not Heated,9,2.94,Brown,180000
+Sapphire,Square,VS1,Heated,9,4.36,Teal,336000
+Sapphire,Square,VS2,Not Heated,9,4.37,Teal,238000
+Sapphire,Cushion,VVS1,Heated,9,0.2,Blue,7000
+Sapphire,Cushion,VS2,Not Heated,9,5.49,Teal,500000
+Sapphire,Square,SI,Not Heated,9,2.18,Brown,20500
+Sapphire,Octagon,VVS1,Not Heated,9,5.73,Red,900000
+Sapphire,Oval,VS2,Not Heated,9,0.69,Teal,6900
+Sapphire,Square,SI,Not Heated,9,1.84,Blue,30000
+Sapphire,Square,VS1,Not Heated,9,5.8,Blue,200000
+Sapphire,Round,VS1,Heated,9,5.14,Red,480000
+Sapphire,Square,VS1,Heated,9,0.21,Purple,2100
+Sapphire,Round,VVS1,Not Heated,9,3.85,Teal,400000
+Sapphire,Round,VS2,Heated,9,4.81,Teal,240000
+Sapphire,Round,SI,Not Heated,9,2.82,Yellow,28000
+Sapphire,Square,VS2,Heated,9,0.79,Pink,11500
+Sapphire,Square,VVS2,Heated,9,4.78,Yellow,60000
+Sapphire,Round,VVS2,Heated,9,3.85,Teal,285000
+Sapphire,Cushion,VVS2,Not Heated,9,0.83,Red,8000
+Sapphire,Oval,VS1,Heated,9,0.73,Purple,3000
+Sapphire,Octagon,VVS2,Not Heated,9,2.56,Orange,240000
+Sapphire,Cushion,VVS1,Not Heated,9,3.03,Teal,400300
+Sapphire,Round,SI,Not Heated,9,3.7,Purple,20100
+Sapphire,Oval,VVS1,Not Heated,9,2.29,Pink,200000
+Sapphire,Oval,VS1,Not Heated,9,5.23,Green,250300
+Sapphire,Oval,SI,Heated,9,3.61,Teal,20600
+Sapphire,Round,VVS2,Not Heated,9,1.65,Orange,140000
+Sapphire,Round,VS1,Heated,9,5.18,Blue,400000
+Sapphire,Square,SI,Heated,9,1.01,Pink,9000
+Sapphire,Octagon,VVS2,Heated,9,5.7,Teal,170000
+Sapphire,Octagon,VS1,Not Heated,9,0.59,Blue,12000
+Sapphire,Square,VS2,Heated,9,0.56,Teal,5600
+Sapphire,Octagon,VS1,Not Heated,9,3.53,Blue,240000
+Sapphire,Octagon,VS2,Heated,9,5.4,Teal,184000
+Sapphire,Round,SI,Heated,9,1.03,Teal,10000
+Sapphire,Round,VS1,Not Heated,9,1.98,Yellow,30000
+Sapphire,Cushion,SI,Heated,9,4.06,Blue,12500
+Sapphire,Round,VVS1,Heated,9,1.89,Green,65000
+Sapphire,Round,VVS1,Not Heated,9,1.86,Green,80000
+Sapphire,Cushion,VS2,Heated,9,2.19,Blue,12200
+Sapphire,Octagon,VVS1,Heated,9,1.75,Brown,70500
+Sapphire,Cushion,SI,Not Heated,9,2.52,Teal,12500
+Sapphire,Octagon,VS1,Heated,9,2.27,Pink,80000
+Sapphire,Round,VS1,Not Heated,9,4.8,Blue,280000
+Sapphire,Cushion,SI,Not Heated,9,0.9,Teal,7700
+Sapphire,Square,SI,Not Heated,9,0.83,Green,3000
+Sapphire,Octagon,VS1,Heated,8,5.39,Blue,486000
+Sapphire,Round,VS1,Not Heated,8,2.66,Blue,257500
+Sapphire,Round,VVS2,Not Heated,9,1.48,Teal,24500
+Sapphire,Round,VVS2,Not Heated,9,3.76,Blue,150000
+Sapphire,Oval,VVS1,Heated,9,5.31,Blue,800000
+Sapphire,Round,VVS2,Not Heated,9,4.84,Yellow,180000
+Sapphire,Round,VVS1,Not Heated,9,4.77,Teal,600000
+Sapphire,Round,VS2,Heated,9,3.84,Teal,51000
+Sapphire,Cushion,VS2,Heated,9,5.64,Red,88000
+Sapphire,Round,VVS1,Not Heated,9,4.89,Purple,180000
+Sapphire,Oval,VVS1,Not Heated,9,1.48,Orange,170000
+Sapphire,Octagon,VS2,Not Heated,9,4.56,Blue,256000
+Sapphire,Square,VVS2,Not Heated,9,4.96,Blue,340000
+Sapphire,Square,VS2,Heated,9,0.33,Blue,3400
+Sapphire,Octagon,VS2,Not Heated,8,0.27,Yellow,1800
+Sapphire,Round,VS2,Heated,9,3.94,Red,140000
+Sapphire,Square,VVS2,Heated,9,0.23,Blue,2300
+Sapphire,Oval,VS1,Not Heated,8,4.05,Blue,450000
+Sapphire,Octagon,VS2,Heated,9,0.5,Yellow,10000
+Sapphire,Round,VVS1,Not Heated,9,5.87,Blue,1080000
+Sapphire,Cushion,VS1,Heated,9,1.99,Pink,80000
+Sapphire,Cushion,VS2,Not Heated,9,4.9,Brown,180000
+Sapphire,Oval,SI,Not Heated,9,4.23,Teal,8230
+Sapphire,Round,SI,Heated,9,2.02,Blue,10200
+Sapphire,Octagon,SI,Heated,8,0.21,Green,1000
+Sapphire,Square,VS2,Heated,8,4.25,Brown,43000
+Sapphire,Cushion,VS1,Heated,9,5.88,Teal,240000
+Sapphire,Oval,VVS2,Heated,9,1.38,Red,23000
+Sapphire,Round,VS1,Not Heated,9,4.97,Teal,230000
+Sapphire,Cushion,VS1,Heated,8,0.55,Blue,2500
+Sapphire,Oval,VVS1,Not Heated,9,5.17,Blue,1017000
+Sapphire,Round,VS2,Heated,9,5.89,Teal,340000
+Sapphire,Octagon,VVS2,Heated,9,4.33,Teal,312000
+Sapphire,Square,VS2,Heated,8,1.88,Blue,64700
+Sapphire,Square,VS2,Not Heated,9,4.02,Orange,80000
+Sapphire,Round,VS1,Heated,9,5.42,Blue,242000
+Sapphire,Oval,VVS2,Not Heated,9,2.69,Brown,40000
+Sapphire,Cushion,VVS2,Not Heated,9,3.11,Brown,50700
+Sapphire,Octagon,VS2,Not Heated,8,4.13,Yellow,75000
+Sapphire,Round,VS1,Heated,9,4.62,Blue,162000
+Sapphire,Cushion,SI,Heated,9,3.77,Pink,28000
+Sapphire,Square,VS2,Heated,9,2.68,Blue,168000
+Sapphire,Square,VS2,Not Heated,9,0.23,Green,2300
+Sapphire,Oval,VS2,Heated,9,2.81,Blue,140000
+Sapphire,Cushion,VS2,Not Heated,9,2.82,Green,22800
+Sapphire,Octagon,VS1,Not Heated,9,4.61,Blue,430000
+Sapphire,Cushion,VS2,Not Heated,9,0.56,Yellow,8000
+Sapphire,Octagon,VS1,Heated,9,2.46,Brown,20400
+Sapphire,Round,VS1,Not Heated,9,3.97,Blue,340000
+Sapphire,Oval,VVS1,Heated,9,5.84,Yellow,480000
+Sapphire,Square,VVS2,Not Heated,9,4.02,Green,112000
+Sapphire,Square,VS2,Not Heated,9,3.33,Blue,170000
+Sapphire,Square,VS2,Not Heated,9,1.44,Teal,57000
+Sapphire,Round,VS2,Not Heated,9,1.95,Brown,19500
+Sapphire,Square,VS2,Heated,9,5.61,Blue,461000
+Sapphire,Square,VS1,Not Heated,9,5.92,Brown,292000
+Sapphire,Oval,VS1,Not Heated,9,1.03,Blue,70000
+Sapphire,Cushion,VS2,Heated,9,1.46,Teal,58000
+Sapphire,Octagon,VVS1,Heated,9,0.88,Yellow,8000
+Sapphire,Oval,VVS1,Heated,9,5.18,Pink,480000
+Sapphire,Oval,VVS2,Heated,8,4.39,Red,400000
+Sapphire,Round,SI,Heated,9,3.74,Blue,25740
+Sapphire,Octagon,VS1,Not Heated,9,4.06,Teal,200600
+Sapphire,Oval,VVS2,Not Heated,9,0.39,Pink,3000
+Sapphire,Octagon,SI,Not Heated,9,1.14,Teal,9700
+Sapphire,Oval,VVS2,Heated,9,0.82,Pink,4200
+Sapphire,Oval,VS1,Heated,9,0.92,Blue,9000
+Sapphire,Round,VVS1,Not Heated,9,4.55,Green,250000
+Sapphire,Octagon,VVS2,Heated,9,5.9,Blue,280000
+Sapphire,Square,VS2,Heated,9,1.69,Pink,16000
+Sapphire,Oval,VS2,Heated,9,4.87,Red,80000
+Sapphire,Square,VS1,Heated,8,3.24,Blue,170000
+Tomalin,Octagon,VVS2,Not Heated,7,6.55,Green,37000
+Tomalin,Round,VS2,Not Heated,7,1.53,Green,8000
+Tomalin,Round,VVS1,Not Heated,7,3.23,Green,62000
+Tomalin,Cushion,VVS1,Not Heated,8,3.86,Green,63500
+Tomalin,Cushion,VS1,Heated,7,6.25,Green,40000
+Tomalin,Cushion,VS2,Not Heated,7,6.71,Green,20000
+Tomalin,Round,VVS1,Heated,7,3.77,Green,60000
+Tomalin,Round,VVS1,Not Heated,8,1.08,Green,22900
+Tomalin,Cushion,VS1,Not Heated,7,2.7,Green,18700
+Tomalin,Octagon,VVS1,Not Heated,7,6.06,Green,180000
+Tomalin,Square,VS1,Not Heated,7,3.69,Green,23000
+Tomalin,Square,VS2,Not Heated,7,3.42,Green,18000
+Tomalin,Round,VS2,Heated,7,4.57,Green,10200
+Tomalin,Oval,VVS2,Heated,7,6.96,Green,34000
+Tomalin,Oval,VS1,Not Heated,6,6.46,Green,37500
+Tomalin,Square,VS2,Not Heated,6,6.78,Green,30000
+Tomalin,Octagon,VVS1,Not Heated,8,1.72,Green,19000
+Tomalin,Cushion,VVS1,Heated,8,6.82,Green,51000
+Tomalin,Cushion,VVS2,Heated,7,6.72,Green,32000
+Tomalin,Cushion,VVS1,Not Heated,7,3.86,Green,60000
+Tomalin,Oval,SI,Not Heated,7,6.56,Green,12000
+Tomalin,Cushion,VVS2,Heated,7,3.05,Green,8000
+Tomalin,Octagon,VVS1,Not Heated,8,1.74,Green,17600
+Tomalin,Round,VVS2,Heated,8,1.43,Green,6400
+Tomalin,Oval,VS2,Not Heated,7,5.89,Green,7200
+Tomalin,Cushion,VS1,Heated,7,6.88,Green,28000
+Tomalin,Square,VVS2,Not Heated,7,4.61,Green,15000
+Tomalin,Round,VS1,Heated,6,4.98,Green,18000
+Tomalin,Round,VS2,Not Heated,8,3.75,Green,13500
+Tomalin,Octagon,VVS2,Heated,8,1.49,Green,12500
+Tomalin,Oval,SI,Heated,7,1.94,Green,4000
+Tomalin,Octagon,SI,Heated,7,3.71,Green,7200
+Tomalin,Octagon,VS2,Heated,7,2.41,Green,6700
+Tomalin,Octagon,VVS1,Heated,8,3.01,Green,33600
+Tomalin,Octagon,VS1,Heated,7,4.12,Green,12000
+Tomalin,Square,VS1,Heated,7,3.52,Green,9000
+Tomalin,Square,VVS1,Not Heated,7,3.02,Green,30200
+Tomalin,Cushion,SI,Heated,7,5.98,Green,18000
+Tomalin,Oval,VS1,Heated,8,6.76,Green,20000
+Tomalin,Oval,VS1,Heated,7,6.71,Green,31700
+Tomalin,Octagon,VVS1,Heated,7,3.01,Green,30100
+Tomalin,Round,VVS1,Not Heated,7,1.08,Green,20500
+Tomalin,Oval,VVS2,Heated,8,6.96,Green,36500
+Tomalin,Round,VS1,Heated,7,5.99,Green,20700
+Tomalin,Square,VVS2,Heated,7,4.36,Green,8360
+Tomalin,Octagon,VS2,Heated,7,4.37,Green,4000
+Tomalin,Octagon,VS2,Not Heated,7,3.04,Green,3000
+Tomalin,Octagon,VVS1,Not Heated,7,1.72,Green,17000
+Tomalin,Cushion,VVS1,Heated,7,6.82,Green,48000
+Tomalin,Cushion,VVS2,Heated,8,6.72,Green,34000
+Tomalin,Round,VS2,Not Heated,7,3.75,Green,12000
+Tomalin,Octagon,VVS2,Heated,7,1.49,Green,11400
+Tomalin,Oval,VS1,Heated,7,6.76,Green,18000
+Tomalin,Octagon,VVS2,Not Heated,7,5.49,Green,20000
+Tomalin,Round,VS2,Not Heated,7,5.23,Green,10000
+Tomalin,Octagon,SI,Heated,7,1.04,Green,1400
+Tomalin,Square,VS1,Not Heated,7,6.08,Green,30000
+Tomalin,Round,VS1,Heated,7,4.98,Green,20000
+Tomalin,Octagon,SI,Heated,6,1.04,Green,1200
+Tomalin,Square,VS1,Not Heated,6,6.08,Green,28000
+Tomalin,Oval,VS1,Not Heated,7,6.46,Green,40000
+Tomalin,Square,VS2,Not Heated,7,6.78,Green,32000
+Tomalin,Octagon,VVS1,Not Heated,7,1.74,Green,15700
+Tomalin,Round,VVS2,Heated,7,1.43,Green,5800
+Tomalin,Octagon,VVS2,Not Heated,8,5.49,Green,22000
+Tomalin,Octagon,VS2,Heated,7,1.55,Green,2900
+Tomalin,Oval,VS2,Not Heated,7,4.66,Green,17600
+Tomalin,Square,VVS1,Heated,7,2.26,Green,26000
+Ruby,Oval,SI,Heated,9,0.66,Red,7000
+Ruby,Octagon,VVS1,Not Heated,9,2.05,Red,220000
+Ruby,Square,VS2,Heated,9,2.23,Red,60200
+Ruby,Square,VS2,Heated,9,3.17,Red,75500
+Ruby,Square,SI,Not Heated,8,4.41,Red,75000
+Ruby,Octagon,VS1,Heated,8,3.93,Red,72200
+Ruby,Oval,VVS2,Not Heated,9,5.83,Red,740000
+Ruby,Square,VS1,Not Heated,8,1.52,Red,30500
+Ruby,Square,SI,Not Heated,9,4.41,Red,80000
+Ruby,Octagon,VS1,Heated,9,3.93,Red,74200
+Ruby,Cushion,SI,Not Heated,9,5.15,Red,115000
+Ruby,Round,VS2,Not Heated,9,5.21,Red,145000
+Ruby,Octagon,VS1,Heated,9,3.93,Red,150800
+Ruby,Round,VVS2,Heated,9,4.43,Red,200500
+Ruby,Round,VVS2,Not Heated,9,3.32,Red,145000
+Ruby,Oval,VS1,Not Heated,9,0.51,Red,6000
+Ruby,Round,VS1,Heated,8,3.23,Red,47100
+Ruby,Square,VS1,Not Heated,9,0.65,Red,6800
+Ruby,Cushion,VVS2,Not Heated,9,4.16,Red,12500
+Ruby,Round,VVS1,Heated,9,2.54,Red,254000
+Ruby,Octagon,VVS1,Heated,9,3.85,Red,425000
+Ruby,Octagon,VS2,Heated,8,5.89,Red,135200
+Ruby,Round,VVS2,Heated,9,4.1,Red,395400
+Ruby,Round,VVS2,Not Heated,9,3.5,Red,354000
+Ruby,Round,SI,Not Heated,9,3.49,Red,75800
+Ruby,Oval,VS1,Not Heated,9,2.01,Red,48500
+Ruby,Round,VVS2,Not Heated,9,1.31,Red,22450
+Ruby,Octagon,SI,Heated,9,5.61,Red,56100
+Ruby,Octagon,VVS1,Heated,9,3.15,Red,385000
+Ruby,Round,SI,Not Heated,8,3.49,Red,71800
+Ruby,Cushion,VVS2,Not Heated,8,5.12,Red,232000
+Ruby,Cushion,VVS1,Not Heated,9,2.94,Red,384000
+Ruby,Round,VS1,Not Heated,9,1.99,Red,45200
+Ruby,Octagon,VVS1,Not Heated,9,0.74,Red,30200
+Ruby,Round,VS1,Heated,9,3.23,Red,52100
+Ruby,Octagon,VS2,Heated,9,5.89,Red,145200
+Ruby,Square,VS1,Not Heated,9,1.52,Red,32500
+Ruby,Round,VVS1,Heated,9,1.63,Red,185200
+Ruby,Square,VS2,Not Heated,9,0.9,Red,20000
+Ruby,Round,VS2,Not Heated,9,4.37,Red,47500
+Ruby,Square,VS1,Not Heated,9,2.33,Red,44560
+Ruby,Round,VVS1,Heated,9,1.37,Red,85600
+Ruby,Oval,SI,Not Heated,9,0.6,Red,5800
+Ruby,Oval,VS1,Not Heated,9,5.55,Red,145000
+Ruby,Oval,VVS1,Heated,9,0.6,Red,7000
+Ruby,Octagon,VS1,Heated,8,3.93,Red,145800
+Ruby,Cushion,SI,Not Heated,8,5.15,Red,108000
+Ruby,Round,VS2,Not Heated,8,5.21,Red,139000
+Ruby,Oval,VS1,Heated,9,0.82,Red,8200
+Ruby,Oval,VS2,Heated,9,1.43,Red,28000
+Ruby,Octagon,VS1,Not Heated,9,2.32,Red,34000
+Ruby,Octagon,VS1,Not Heated,9,3.39,Red,39500
+Ruby,Cushion,VVS2,Heated,9,4.36,Red,65400
+Ruby,Round,SI,Heated,9,1.17,Red,10500
+Ruby,Round,SI,Heated,9,2.33,Red,23000
+Ruby,Cushion,VS2,Heated,9,1.94,Red,20100
+Ruby,Oval,VS1,Heated,9,1.01,Red,24200
+Ruby,Round,VVS1,Heated,9,2.92,Red,254100
+Ruby,Cushion,VVS2,Not Heated,9,5.12,Red,245000
