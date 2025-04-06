@@ -40,10 +40,11 @@ def predict():
         df = pd.DataFrame([data])  # Convert JSON to DataFrame
        
         # Apply One-Hot Encoding to categorical features
-        df = pd.get_dummies(df, columns=categorical_features, drop_first=True)
+        df = pd.get_dummies(df, columns=categorical_features, drop_first=False)
         print(df)
         df = df.astype(int)# converting to integer in our case 0 ro 1
         df = df.reindex(columns=expected_features, fill_value=0)# aligning and checking the df features with expected feature, missing other features are 0
+        print("Reindexed Data:", df.columns)
 
         # Scaling the data
         numerical_features = ["Hardness", "Carat"]
