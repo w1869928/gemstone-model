@@ -1,0 +1,8 @@
+1. python -m venv venv  //if virtual environment is not set use this command
+2. .\venv\Scripts\activate to activate environment
+3. cd C:\Flutter_Projects\gemstone_app\gemstone_model\gemstone-model // move to the directory 
+4. python app.py
+
+
+
+

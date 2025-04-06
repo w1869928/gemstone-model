@@ -6,11 +6,12 @@ import os
 
 app = Flask(__name__)
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # Get the directory of the script
 
-MODEL_PATH = "gemstone_price_model.pkl"
-SCALER_PATH = "scaler.pkl"
-ENCODER_PATH = "encoder.pkl"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+SCALER_PATH = os.path.join(BASE_DIR, "scaler.pkl")
+MODEL_PATH = os.path.join(BASE_DIR, "gemstone_price_model.pkl")
+ENCODER_PATH = os.path.join(BASE_DIR, "encoder.pkl")
 
 model = joblib.load(MODEL_PATH)
 scaler = joblib.load(SCALER_PATH)
@@ -31,7 +32,7 @@ if hasattr(model, 'feature_importances_'):
 else:
     print("Feature importance not available for this model type.")
 
-port = int(os.environ.get("PORT", 10000))
+port = int(os.environ.get("PORT", 5002))
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
@@ -39,9 +40,10 @@ def predict():
         df = pd.DataFrame([data])  # Convert JSON to DataFrame
        
         # Apply One-Hot Encoding to categorical features
-        df = pd.get_dummies(df, columns=categorical_features, drop_first=False)
+        df = pd.get_dummies(df, columns=categorical_features, drop_first=True)
         print(df)
-        df = df.astype(int)
+        df = df.astype(int)# converting to integer in our case 0 ro 1
+        df = df.reindex(columns=expected_features, fill_value=0)# aligning and checking the df features with expected feature, missing other features are 0
 
         # Scaling the data
         numerical_features = ["Hardness", "Carat"]
@@ -57,4 +59,4 @@ def predict():
         return jsonify({'error': str(e)})
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host="0.0.0.0", port=5002)
